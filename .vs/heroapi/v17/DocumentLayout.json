@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ABA3AE-9110-4930-9BCD-331152140A93}|heroapi\\heroapi.csproj|c:\\users\\emanuelmartinscardos\\desktop\\dev\\heroapi\\heroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ABA3AE-9110-4930-9BCD-331152140A93}|heroapi\\heroapi.csproj|solutionrelative:heroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ABA3AE-9110-4930-9BCD-331152140A93}|heroapi\\heroapi.csproj|c:\\users\\emanuelmartinscardos\\desktop\\dev\\heroapi\\heroapi\\controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ABA3AE-9110-4930-9BCD-331152140A93}|heroapi\\heroapi.csproj|solutionrelative:heroapi\\controllers\\herocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749A7F35-9999-455E-9867-C0E1FCAD6DDE}|Service\\Service.csproj|c:\\users\\emanuelmartinscardos\\desktop\\dev\\heroapi\\service\\services\\heroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749A7F35-9999-455E-9867-C0E1FCAD6DDE}|Service\\Service.csproj|solutionrelative:service\\services\\heroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004C927E-F50C-4FAD-A07D-B81A52D3A20E}|Repository\\Repository.csproj|c:\\users\\emanuelmartinscardos\\desktop\\dev\\heroapi\\repository\\contracts\\iherorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C927E-F50C-4FAD-A07D-B81A52D3A20E}|Repository\\Repository.csproj|solutionrelative:repository\\contracts\\iherorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749A7F35-9999-455E-9867-C0E1FCAD6DDE}|Service\\Service.csproj|c:\\users\\emanuelmartinscardos\\desktop\\dev\\heroapi\\service\\contracts\\iheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749A7F35-9999-455E-9867-C0E1FCAD6DDE}|Service\\Service.csproj|solutionrelative:service\\contracts\\iheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004C927E-F50C-4FAD-A07D-B81A52D3A20E}|Repository\\Repository.csproj|c:\\users\\emanuelmartinscardos\\desktop\\dev\\heroapi\\repository\\repositories\\herorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004C927E-F50C-4FAD-A07D-B81A52D3A20E}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\herorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521D21FA-7D9B-4032-91F5-E44F01F67CAD}|Domain\\Domain.csproj|c:\\users\\emanuelmartinscardos\\desktop\\dev\\heroapi\\domain\\model\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521D21FA-7D9B-4032-91F5-E44F01F67CAD}|Domain\\Domain.csproj|solutionrelative:domain\\model\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6ABA3AE-9110-4930-9BCD-331152140A93}|heroapi\\heroapi.csproj|c:\\users\\emanuelmartinscardos\\desktop\\dev\\heroapi\\heroapi\\dto\\herodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6ABA3AE-9110-4930-9BCD-331152140A93}|heroapi\\heroapi.csproj|solutionrelative:heroapi\\dto\\herodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\heroapi\\Program.cs",
+              "RelativeDocumentMoniker": "heroapi\\Program.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\heroapi\\Program.cs",
+              "RelativeToolTip": "heroapi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:26:08.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Repository\\Repositories\\HeroRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\HeroRepository.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Repository\\Repositories\\HeroRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\HeroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:09:42.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHeroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Repository\\Contracts\\IHeroRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Contracts\\IHeroRepository.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Repository\\Contracts\\IHeroRepository.cs",
+              "RelativeToolTip": "Repository\\Contracts\\IHeroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:07:40.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeroService.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Service\\Services\\HeroService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\HeroService.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Service\\Services\\HeroService.cs",
+              "RelativeToolTip": "Service\\Services\\HeroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:02:43.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Service\\Contracts\\IHeroService.cs",
+              "RelativeDocumentMoniker": "Service\\Contracts\\IHeroService.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Service\\Contracts\\IHeroService.cs",
+              "RelativeToolTip": "Service\\Contracts\\IHeroService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T21:00:12.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Domain\\Model\\Hero.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Hero.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\Domain\\Model\\Hero.cs",
+              "RelativeToolTip": "Domain\\Model\\Hero.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA7wCIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:52:05.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeroDto.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\heroapi\\Dto\\HeroDto.cs",
+              "RelativeDocumentMoniker": "heroapi\\Dto\\HeroDto.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\heroapi\\Dto\\HeroDto.cs",
+              "RelativeToolTip": "heroapi\\Dto\\HeroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:49:35.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeroController.cs",
+              "DocumentMoniker": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\heroapi\\Controllers\\HeroController.cs",
+              "RelativeDocumentMoniker": "heroapi\\Controllers\\HeroController.cs",
+              "ToolTip": "C:\\Users\\EmanuelMartinsCardos\\Desktop\\dev\\heroapi\\heroapi\\Controllers\\HeroController.cs",
+              "RelativeToolTip": "heroapi\\Controllers\\HeroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T20:43:50.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
